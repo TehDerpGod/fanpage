@@ -18,3 +18,32 @@ a {
     width: 30px;
     margin: 15px;
 }
+.navbar{
+    display: flex;
+    justify-content:space-around;
+    
+}
+.header{
+    display: flex;
+    justify-content:center;
+}
+.footer{
+    display: flex;
+    justify-content:space-around;
+}
+.gallery{
+    display: flex;
+    justify-content:center;
+}
+.aboutMain{
+    display: flex;
+    justify-content:center;
+}
+.main{
+    display:flex;
+    justify-content:center;
+     justify-content:space-around;
+}
+iframe{
+    border-radius: ;
+}
